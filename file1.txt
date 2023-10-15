@@ -3,3 +3,4 @@ Create a SSH key in local desktop using command ssh-keygen. It will create id_rs
 Configure the data in id_rsa.pub in github by adding the new SSH key. So we can push and pull without authentication even for 1st time  
 added code in remote repo for git fetch
 Added code in local repo to check git fetch/merge
+test
